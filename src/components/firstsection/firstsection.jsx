@@ -13,9 +13,9 @@ const FirstSection = () => {
                     </div>
                 </div>
                 <div className="w-1/6">
-                    <img src={IllustrationHero} alt="ImgFirstSection" className="absolute w-2/5 ml-40 md:w-[28rem] right-4 sm:w-full sm:top-0 z-20" />
+                    <img src={IllustrationHero} alt="ImgFirstSection" className="absolute w-[40rem] ml-40 md:w-[28rem] right-4 sm:w-full sm:top-0 z-20" />
                 </div>
-                    <div className="bg-[#5368df] w-1/3 h-80 rounded-l-full mt-32 md:w-[20rem] md:h-52 sm:w-3/4 sm:mt-[70px] sm:rotate-180 sm:h-56"></div>
+                    <div className="bg-[#5368df] w-[33rem] h-80 rounded-l-full mt-32 md:w-[20rem] md:h-52 sm:w-3/4 sm:mt-[70px] sm:rotate-180 sm:h-56"></div>
             </div>
         </>
      );
